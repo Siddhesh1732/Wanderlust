@@ -83,10 +83,10 @@ npm install
 
 ### 4️⃣ Run the development server
 ```bash
-npm start
+node app.js
 ```
 
-- Visit [http://localhost:3000/listings](http://localhost:8080/listings) in your browser.
+- Visit [http://localhost:8080/listings](http://localhost:8080/listings) in your browser.
 
 ---
 
