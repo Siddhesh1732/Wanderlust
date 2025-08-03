@@ -86,7 +86,7 @@ npm install
 npm start
 ```
 
-- Visit [http://localhost:3000/listings](http://localhost:3000/listings) in your browser.
+- Visit [http://localhost:3000/listings](http://localhost:8080/listings) in your browser.
 
 ---
 
@@ -114,14 +114,6 @@ We welcome all contributions! Here's how you can help:
 ## 🪪 License
 
 This project is licensed under the **MIT License**.
-
----
-
-## 📊 Languages Used
-
-- **JavaScript:** 49%
-- **EJS:** 27.5%
-- **CSS:** 23.5%
 
 ---
 
