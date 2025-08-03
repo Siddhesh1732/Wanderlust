@@ -20,8 +20,6 @@ A **full-stack travel listing web application** that allows users to explore, cr
 
 ## 🖼 Website Screenshots
 
-> 📌 Replace the image links below with your own screenshots
-
 ### 🏠 Homepage
 ![Homepage](screenshots/homepage.png)
 
