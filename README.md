@@ -24,10 +24,11 @@ A **full-stack travel listing web application** that allows users to explore, cr
 ![Homepage](screenshots/homepage.png)
 
 ### ➕ Add Listing Page
-![Add Listing](screenshots/add listing.png)
+![Add Listing](screenshots/addListing.png)
 
 ### 🗂 Listings Overview
-![Listings](screenshots/listings.png)
+![Listings](screenshots/listingOverview1.png)
+![Listings](screenshots/listingOverview2.png)
 
 ---
 
